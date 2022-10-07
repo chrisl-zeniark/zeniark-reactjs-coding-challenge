@@ -51,7 +51,7 @@ We provide the design for the trivia app. You can check the figma file [here](ht
 
 - The Score shows correct and total
 - Displays a list of the questions and whether the answer was correct or not
-- PLAY AGAIN starts over with new questions and navigates to the Home Screen
+- PLAY AGAIN starts over with new set of random questions and navigates to the Home Screen
 
 ## Submission
 
