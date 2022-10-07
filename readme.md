@@ -34,7 +34,7 @@ We provide the design for the trivia app. You can check the figma file [here](ht
 ![The Intro screen for the app](screenshots/intro-screen.png "The Intro screen for the app")
 
 - Static Text
-- BEGIN button navigates to the Quiz screen and starts the Quiz
+- LET'S START button navigates to the Quiz screen and starts the Quiz
 
 ### Quiz Screen:
 
