@@ -1,4 +1,4 @@
-# Zeniark JavaScript Coding Challenge
+# Zeniark ReactJS Coding Challenge
 
 ## Overview
 
